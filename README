@@ -1,0 +1,3 @@
+# ansible-role-znc
+
+Note: On FreeBSD, user needs to run manually: sudo -u znc znc --makeconf
